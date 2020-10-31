@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GlideExample</string>
+    <string name="random_dog_url">RANDOM DOG GENERATOR</string>
+    <string name="gallery_btn_text">GALLERY</string>
+    <string name="title_activity_gallery">GalleryActivity</string>
+
+    <string name="hello_world">Hello Square World!</string>
+    <string name="random_dog_text">Random Dog Generator</string>
+</resources>
